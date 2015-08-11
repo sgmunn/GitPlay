@@ -7,10 +7,4 @@ namespace Bug32417
 		{
 		}
 	}
-
-	public class SuperAwesomeClass
-	{
-		public string Super { get; set; }
-	}
 }
-

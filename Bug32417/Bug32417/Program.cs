@@ -9,7 +9,7 @@ namespace Bug32417
 			Console.WriteLine("Hello World!");
 
 			var x = new AwesomeClass ();
-			var y = new SuperAwesomeClass ();
+			var y = new SuperStuff ();
 			y.Super = "Mr Incredible";
 
 			Console.WriteLine(y.Super);
